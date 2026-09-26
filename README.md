@@ -3,7 +3,7 @@
 ---
 
 ## Aim  
-To perform **functional verification** of an **Asynchronous FIFO (First-In-First-Out)** design using **SystemVerilog**, ensuring reliable data transfer between two clock domains.
+To perform **functional verification** of an **Asynchronous FIFO (First-In-First-Out)** design using **SystemVerilog/UVM**, ensuring reliable data transfer between two clock domains.
 
 ---
 
